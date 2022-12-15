@@ -1,2 +1,3 @@
 # Inheritance
-https://github.com/trifena1122/Inheritance
+
+Contoh Inheritance pada bahasa pemrograman java
